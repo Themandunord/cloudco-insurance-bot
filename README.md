@@ -8,7 +8,7 @@ This repository is part of the larger [Cloud Insurance Co.](https://github.com/I
 
 # Overview
 
-[![Policy Bot](./design/video-cap.png)](https://vimeo.com/165460548 "Policy Bot Concept - Click to Watch!")
+[![Policy Bot](./design/video-cap.png)](https://vimeo.com/165460548 "Policy Bot Concept - Click to Watch!") [![Greenkeeper badge](https://badges.greenkeeper.io/Themandunord/cloudco-insurance-bot.svg)](https://greenkeeper.io/)
 
 In order to deploy the full set of microservices involved, check out the [insurance-toolchain repo][toolchain_url]. Otherwise, you can deploy just the app by following the steps here.
 
